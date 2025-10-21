@@ -1,0 +1,13 @@
+# Logs e temporários
+*.log
+*.tmp
+logs/
+tmp/
+
+# Configurações locais/sensíveis
+.env
+.env.*
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
